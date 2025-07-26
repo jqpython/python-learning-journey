@@ -1,4 +1,3 @@
-from tokenize import group
 def play_game(board_size):
     board = []
     for _ in range(board_size):
